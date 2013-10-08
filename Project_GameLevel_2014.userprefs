@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Editor/Scripts/Object2Terrain.js">
+    <Files>
+      <File FileName="../../../../Downloads/UnityTetris2/Assets/UnityTetrisMain.cs" Line="8" Column="2" />
+      <File FileName="../../../../Downloads/UnityTetris2/Assets/TetrisGrid.cs" Line="1" Column="1" />
+      <File FileName="../../../../Downloads/UnityTetris2/Assets/TetrisPieceControl.cs" Line="1" Column="1" />
+      <File FileName="Assets/MikeTon/Shaders/VertexColorUnlit.shader" Line="23" Column="2" />
+      <File FileName="Assets/Editor/Scripts/ExportTerrain.js" Line="10" Column="35" />
+      <File FileName="Assets/Editor/Scripts/Object2Terrain.js" Line="82" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
